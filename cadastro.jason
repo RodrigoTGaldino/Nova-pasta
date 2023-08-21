@@ -1,0 +1,27 @@
+[
+    {
+        "produto": "Tomate",
+        "preco": 25.5,
+        "quantidade": 4
+    },
+    {
+        "produto": "Feijao",
+        "preco": 8.6,
+        "quantidade": 20
+    },
+    {
+        "produto": "Macarr\u00e3o",
+        "preco": 5.25,
+        "quantidade": 15
+    },
+    {
+        "produto": "Sabonete",
+        "preco": 2.69,
+        "quantidade": 18
+    },
+    {
+        "produto": "Pasta de dente",
+        "preco": 5.0,
+        "quantidade": 17
+    }
+]
